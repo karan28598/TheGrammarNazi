@@ -1,4 +1,4 @@
-# TheGrammarNazi
+# The Grammar Nazi
 Tool to check for spellings.
 
 # Description
